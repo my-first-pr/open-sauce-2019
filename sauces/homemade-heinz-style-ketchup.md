@@ -1,4 +1,4 @@
-# Homemade Heinz-Style Ketchup
+# Homemade Heinz-style Ketchup
 
 ## Ingredience
 
