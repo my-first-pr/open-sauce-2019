@@ -1,8 +1,12 @@
 # Hawt Sauce
 
+<<<<<<< Updated upstream
 ![Flaming Hot Sauce](https://artzyfoodie.com/wp-content/uploads/2019/02/Hot-Sauce-9-682x1024.jpg)
 
 ## Ingredience
+=======
+## Ingredients
+>>>>>>> Stashed changes
 
 - 1 1/4 lbs cherry bomb peppers, or your choice of fresh chiles, tops removed
 - 6 garlic cloves
