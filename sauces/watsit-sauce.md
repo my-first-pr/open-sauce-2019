@@ -15,6 +15,10 @@
 
 Combine all ingredients in a blender. Blend until the mixture foams gently and is just shy of explosion.
 
+### Step 2
+
+Run.
+
 ## Tips
 
 Add a little salt and pepper to taste, but don't taste it.
