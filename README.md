@@ -13,6 +13,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/my-first-pr/open-sauce-2019.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/my-first-pr/open-sauce-2019.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/my-first-pr/open-sauce-2019.svg)
+![Follow @hacktoberfest on Twitter](https://img.shields.io/twitter/follow/hacktoberfest?style=plastic)
 
 This repository is for anyone to create pull requests during Hacktoberfest 2019.
 
