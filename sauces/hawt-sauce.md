@@ -1,5 +1,7 @@
 # Hawt Sauce
 
+![Flaming Hot Sauce](https://artzyfoodie.com/wp-content/uploads/2019/02/Hot-Sauce-9-682x1024.jpg)
+
 ## Ingredience
 
 - 1 1/4 lbs cherry bomb peppers, or your choice of fresh chiles, tops removed
