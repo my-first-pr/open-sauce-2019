@@ -19,7 +19,11 @@ This repository is for anyone to create pull requests during Hacktoberfest 2019.
 
 # Open Sauce Project 2019
 
-Happy Hacktoberfest. Please create a new markdown file inside the sauce directory with a recipe for your sauce.
+Happy Hacktoberfest. Please create a new markdown file inside the [sauces](sauces/) directory with a recipe for your sauce.
+
+## Example Sauce
+
+Check out the [Homemade Heinz-style Ketchup](sauces/homemade-heinz-style-ketchup.md) by [chefsteps.com](https://chefsteps.com). You can copy this format, or make it whatever format you'd like.
 
 ## Reference Links
 
