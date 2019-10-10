@@ -1,4 +1,4 @@
-# Vinaigrette
+# Cream Sauce
 
 ## *Ingredients:*
 
