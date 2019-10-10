@@ -29,3 +29,5 @@ Check out the [Homemade Heinz-style Ketchup](sauces/homemade-heinz-style-ketchup
 
 How do I track my progress to get an awesome shirt from Hacktoberfest 2019?
 - Go to : https://hacktoberfest.digitalocean.com/
+What can I get by contributing to Hacktoberfest 2019?
+- Go to : https://hacktoberfestswaglist.com/
