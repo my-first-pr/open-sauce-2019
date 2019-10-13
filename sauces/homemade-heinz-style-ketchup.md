@@ -1,6 +1,6 @@
 # Homemade Heinz-style Ketchup
 
-## Ingredience
+## Ingredients
 
 - 400 g Tomato paste 
 - 400 g Glucose syrup 
