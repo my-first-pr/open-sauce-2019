@@ -30,8 +30,7 @@ When the chicken is already cooked (about 20 minutes), take a sieve and put the 
 After all the blend corn was mixed with the chicken, put the remaining non-blend corn in the pan and mix for another 5 minutes
 ## Tips
 
-Adding tomato paste and vinegar before dumping in the glucose syrup will prevent the syrup from sticking to the bottom of the blender.
-
+When choosing your seasoning try to pick black pepper or cumin
 ## Source
 
 recepiesabout.com/chicken-recepies
