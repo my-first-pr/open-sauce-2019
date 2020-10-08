@@ -2,14 +2,15 @@
 
 ## Ingredience
 
-- 400 g Tomato paste 
-- 400 g Glucose syrup 
-- 400 g Distilled vinegar 
-- 80 g Sugar
-- 30 g Salt 
-- 0.8 g Clove, ground 
-- 2 g MSG, optional 
-- 2.4 g Xanthan gum 
+- 400g Tomato paste 
+- 400g Glucose syrup 
+- 400g Distilled vinegar 
+- 80g Sugar
+- 30g Salt 
+- 0.8g Clove, ground 
+- 2g MSG, optional 
+- 2.4g Xanthan gum 
+- 1 sprinkle of pepper 
 
 ## Steps
 
