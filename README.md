@@ -1,4 +1,4 @@
-![Hacktoberfest 2019](assets/Hacktoberfest_19_Events_1787x517.png)
+![Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
@@ -17,7 +17,7 @@
 This repository is for anyone to create pull requests during Hacktoberfest 2019.
 
 
-# Open Sauce Project 2019
+# Open Sauce Project 2020
 
 Happy Hacktoberfest. Please create a new markdown file inside the [sauces](sauces/) directory with a recipe for your sauce.
 
