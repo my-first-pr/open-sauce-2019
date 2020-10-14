@@ -28,4 +28,4 @@ Check out the [Homemade Heinz-style Ketchup](sauces/homemade-heinz-style-ketchup
 ## Reference Links
 
 How do I track my progress to get an awesome shirt from Hacktoberfest 2019?
-- Go to : https://hacktoberfest.digitalocean.com/
+- Go to : https://hacktoberfest.digitalocean.com/ and grab your T-shirt now!
